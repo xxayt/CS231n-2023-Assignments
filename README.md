@@ -2,6 +2,7 @@
 
 [CS231n: Deep Learning for Computer Vision](http://cs231n.stanford.edu/)作为CV领域入门的经典课程，我在看完[课程讲解](https://www.bilibili.com/video/BV1nJ411z7fe?p=1&vd_source=05f97c55a318d0682c7cce673cbb8506)后，按照[Schedul](http://cs231n.stanford.edu/schedule.html)的顺序，在[Course Notes](https://cs231n.github.io/)的帮助下，完成了3次作业（[Assignment 1](https://cs231n.github.io/assignments2023/assignment1/), [Assignment 2](https://cs231n.github.io/assignments2023/assignment2/)  and [Assignment 3](https://cs231n.github.io/assignments2023/assignment3/)），并在此记录作业的解答过程。
 
+注：所有和中文相关的内容、注释、推导过程均为本人所写，如有错误，欢迎指正。
 
 
 ## Assignment1（completed）
