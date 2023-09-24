@@ -29,7 +29,7 @@ The notebook **features.ipynb** will examine the improvements gained by using hi
 
 
 
-## Assignment2
+## Assignment2（completed）
 
 ### Q1: Multi-Layer Fully Connected Neural Networks
 
